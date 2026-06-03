@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+Developer;I+turn+ideas+into+plugins;Every+server+needs+a+good+plugin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+Developer)](https://git.io/typing-svg)
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/mukulx)
 [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-2D87C3.svg?style=for-the-badge&logo=BuiltByBit&logoColor=white)](https://builtbybit.com/members/mukulx.721222/)
