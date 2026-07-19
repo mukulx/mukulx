@@ -10,6 +10,14 @@
 
 ---
 
+### About Me
+
+hey, i'm mukul. i make minecraft plugins and i'm learning kotlin right now. mostly working on paper/folia plugins, trying to build cool stuff for servers.
+
+
+
+---
+
 ### GitHub Stats
 
 <div align="center">
