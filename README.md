@@ -38,12 +38,18 @@
 
 ## Discord
 
+<div align="center">
+
 <a href="https://discord.com/users/877602449379192892">
   <img src="https://lanyard.cnrad.dev/api/877602449379192892?theme=dark&bg=0d1117&borderRadius=10&hideDiscrim=true&idleMessage=probably%20coding..." alt="Discord Status">
 </a>
 
+</div>
+
 <br><br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukulx&color=blueviolet&style=flat-square&label=profile+views">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mukulx&color=brightgreen&style=for-the-badge)
+  
 </div>
