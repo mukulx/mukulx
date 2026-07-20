@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" width="100%" alt="Header">
+  <img src="header.png" width="80%" alt="Header">
 </div>
 
 <div align="center">
