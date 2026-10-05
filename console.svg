@@ -6,19 +6,26 @@
     .w { fill: #ffff55; }
     .p { fill: #55ffff; }
     .d { fill: #aaaaaa; }
-    .l { animation: in 0.01s backwards; }
+    .l { animation: none 12s linear infinite; }
     .c { animation: blink 1s step-end infinite; }
-    @keyframes in { from, to { opacity: 0; } }
+    @keyframes a1 { 0%, 1.67% { opacity: 0; } 1.68%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a2 { 0%, 5.83% { opacity: 0; } 5.84%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a3 { 0%, 10.83% { opacity: 0; } 10.84%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a4 { 0%, 15.00% { opacity: 0; } 15.01%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a5 { 0%, 19.17% { opacity: 0; } 19.18%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a6 { 0%, 24.17% { opacity: 0; } 24.18%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a7 { 0%, 29.17% { opacity: 0; } 29.18%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
+    @keyframes a8 { 0%, 34.17% { opacity: 0; } 34.18%, 95.83% { opacity: 1; } 95.84%, 100% { opacity: 0; } }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
   <rect x="0.5" y="0.5" width="819" height="291" rx="10" fill="#000" stroke="#262626"/>
 
-  <text x="28" y="44" class="l" style="animation-delay:.2s"><tspan class="t">[18:42:07 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> Starting minecraft server version 1.21.11</text>
-  <text x="28" y="72" class="l" style="animation-delay:.7s"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> Enabling mukulx v1.0</text>
-  <text x="28" y="100" class="l" style="animation-delay:1.3s"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> writes plugins for paper &amp; folia</text>
-  <text x="28" y="128" class="l" style="animation-delay:1.8s"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> builds random side projects when bored</text>
-  <text x="28" y="156" class="l" style="animation-delay:2.3s"><tspan class="t">[18:42:09 </tspan><tspan class="w">WARN</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> <tspan class="w">still learning kotlin, expect weird code</tspan></text>
-  <text x="28" y="184" class="l" style="animation-delay:2.9s"><tspan class="t">[18:42:09 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> say hi on discord, i reply</text>
-  <text x="28" y="212" class="l" style="animation-delay:3.5s"><tspan class="t">[18:42:10 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> Done (3.112s)! For help, type <tspan class="d">"help"</tspan></text>
-  <text x="28" y="256" class="l" style="animation-delay:4.1s">&gt; <tspan class="c">_</tspan></text>
+  <text x="28" y="44" class="l" style="animation-name:a1"><tspan class="t">[18:42:07 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> Starting minecraft server version 1.21.11</text>
+  <text x="28" y="72" class="l" style="animation-name:a2"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> Enabling mukulx v1.0</text>
+  <text x="28" y="100" class="l" style="animation-name:a3"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> writes plugins for paper &amp; folia</text>
+  <text x="28" y="128" class="l" style="animation-name:a4"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> builds random side projects when bored</text>
+  <text x="28" y="156" class="l" style="animation-name:a5"><tspan class="t">[18:42:09 </tspan><tspan class="w">WARN</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> <tspan class="w">still learning kotlin, expect weird code</tspan></text>
+  <text x="28" y="184" class="l" style="animation-name:a6"><tspan class="t">[18:42:09 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> say hi on discord, i reply</text>
+  <text x="28" y="212" class="l" style="animation-name:a7"><tspan class="t">[18:42:10 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> Done (3.112s)! For help, type <tspan class="d">"help"</tspan></text>
+  <text x="28" y="256" class="l" style="animation-name:a8">&gt; <tspan class="c">_</tspan></text>
 </svg>
