@@ -1,55 +1,14 @@
-<div align="center">
-  <img src="header.png" width="70%" alt="Header">
-</div>
+<img src="console.svg" width="100%" alt="mukulx: minecraft plugin dev (paper & folia), side projects, learning kotlin">
 
-<div align="center">
-  
-  ### Minecraft plugins // Paper & Folia // Learning Kotlin
-  
-  <br>
-  
-  [![Modrinth](https://img.shields.io/badge/modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/mukulx)
-  [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/877602449379192892)
-  [![Email](https://img.shields.io/badge/protonmail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hecker404@proton.me)
-  
-</div>
+<p align="center">
+  <a href="https://mukulx.dev">mukulx.dev</a> &nbsp;·&nbsp;
+  <a href="https://modrinth.com/user/mukulx">modrinth</a> &nbsp;·&nbsp;
+  <a href="https://discord.com/users/877602449379192892">discord</a> &nbsp;·&nbsp;
+  <a href="mailto:hecker404@proton.me">email</a>
+</p>
 
+<details>
+<summary>stats</summary>
 <br>
-
-## Stats
-
-<div align="center">
-  
-  <img src="github-metrics.svg" width="100%" alt="Metrics">
-  
-</div>
-
-<br>
-
-## Streak
-
-<div align="center">
-  
-  ![Streak](https://streak-stats.demolab.com?user=mukulx&theme=tokyonight&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)
-  
-</div>
-
-<br>
-
-## Discord
-
-<div align="center">
-
-<a href="https://discord.com/users/877602449379192892">
-  <img src="https://lanyard.cnrad.dev/api/877602449379192892?theme=dark&bg=0d1117&borderRadius=10&hideDiscrim=true&idleMessage=probably%20coding..." alt="Discord Status">
-</a>
-
-</div>
-
-<br><br>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mukulx&color=brightgreen&style=for-the-badge)
-  
-</div>
+<img src="github-metrics.svg" width="100%" alt="GitHub metrics">
+</details>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="292" viewBox="0 0 820 292" xml:space="preserve">
+  <style>
+    text { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; fill: #d0d0d0; white-space: pre; }
+    .t { fill: #6b6b6b; }
+    .i { fill: #55ff55; }
+    .w { fill: #ffff55; }
+    .p { fill: #55ffff; }
+    .d { fill: #aaaaaa; }
+    .l { animation: in 0.01s backwards; }
+    .c { animation: blink 1s step-end infinite; }
+    @keyframes in { from, to { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="819" height="291" rx="10" fill="#000" stroke="#262626"/>
+
+  <text x="28" y="44" class="l" style="animation-delay:.2s"><tspan class="t">[18:42:07 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> Starting minecraft server version 1.21.11</text>
+  <text x="28" y="72" class="l" style="animation-delay:.7s"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> Enabling mukulx v1.0</text>
+  <text x="28" y="100" class="l" style="animation-delay:1.3s"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> writes plugins for paper &amp; folia</text>
+  <text x="28" y="128" class="l" style="animation-delay:1.8s"><tspan class="t">[18:42:08 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> builds random side projects when bored</text>
+  <text x="28" y="156" class="l" style="animation-delay:2.3s"><tspan class="t">[18:42:09 </tspan><tspan class="w">WARN</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> <tspan class="w">still learning kotlin, expect weird code</tspan></text>
+  <text x="28" y="184" class="l" style="animation-delay:2.9s"><tspan class="t">[18:42:09 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> <tspan class="p">[mukulx]</tspan> say hi on discord, i reply</text>
+  <text x="28" y="212" class="l" style="animation-delay:3.5s"><tspan class="t">[18:42:10 </tspan><tspan class="i">INFO</tspan><tspan class="t">]:</tspan> Done (3.112s)! For help, type <tspan class="d">"help"</tspan></text>
+  <text x="28" y="256" class="l" style="animation-delay:4.1s">&gt; <tspan class="c">_</tspan></text>
+</svg>
